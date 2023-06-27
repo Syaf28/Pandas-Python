@@ -1,7 +1,7 @@
 # Intro to Pandas
 
 This basic introduction of pandasa package to perfrom simple exploratory data analysis.
-The introduction containing several topics, namely:
+The introduction containing several topics using pandas as sole package, namely:
 
 1. install pandas package to jupyter notebook
 2. importing pandas dataframe to jupyter notebook
